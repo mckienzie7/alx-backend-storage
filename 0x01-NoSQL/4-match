@@ -1,0 +1,2 @@
+//List document that match with specific rule
+db.school.find({name:"Holberton school"})
