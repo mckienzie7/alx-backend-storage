@@ -1,2 +1,2 @@
 //Count Document presented in school
-db.school.countDocuments()
+db.school.count()
