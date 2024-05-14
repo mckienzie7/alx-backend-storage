@@ -1,1 +1,2 @@
-show dbs
+//Show databases in the mongodb
+show databases
